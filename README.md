@@ -1,0 +1,2 @@
+# MinigolfNahwi
+tugas skilvul minigolf
